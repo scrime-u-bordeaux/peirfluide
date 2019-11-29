@@ -2,41 +2,41 @@
 
 ### Routage
 
-* Funnel
+* __Funnel__
 1 2 3 4 in -> 1 -> 1 2 3 4 out
 
-* Direct
+* __Direct__
 1* in -> 1 2 3 4 out
 
-* parallele
+* __parallele__
 1 2 3 4 in -> 1 2 3 4 out
 
-* interverti
+* __interverti__
 1 2 3 4 in -> 3 4 1 2 out
 
 ### Effeccts
 
-* Reson
+* __Reson__
 2 in -> Comb Filter -> Reverb -> EQ -> Compressor -> 2 3 4 out
 
-* Freeze/loop
+* __Freeze/loop__
 1 2 3 4 in -> Delay -> capture*2 -> 1 2 3 4 5 out 
 
-* 1000hz
+* __1000hz__
 sinOsc*4 detuned ct -> 1 2 3 4 out
 
 ### Spatialisation
 
-* Dopler
+* __Dopler__
 1 2 3 4 in -> 1 -> 1 2 3 4 Circuaire (spat) out
 
-* OSC
+* __OSC__
 1 2 3 4 in -> 1 -> 1 2 3 4 Cartesian (suround) out
 
 ### Scénario
 
-* Modular
+* __Modular__
 
-* Triggering sequences
+* __Triggering sequences__
 
-* Easily Reorder parts.
+* __Easily Reorder parts__
